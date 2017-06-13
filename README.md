@@ -1,2 +1,2 @@
 # learningGit
-First repository on GitHub, starting out with version control !,  
+First repository on GitHub, starting out with version control !
